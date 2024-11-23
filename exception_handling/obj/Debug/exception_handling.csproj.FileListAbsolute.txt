@@ -1,0 +1,7 @@
+C:\Users\daniil\source\repos\exception_handling\exception_handling\bin\Debug\exception_handling.exe.config
+C:\Users\daniil\source\repos\exception_handling\exception_handling\bin\Debug\exception_handling.exe
+C:\Users\daniil\source\repos\exception_handling\exception_handling\bin\Debug\exception_handling.pdb
+C:\Users\daniil\source\repos\exception_handling\exception_handling\obj\Debug\exception_handling.csproj.AssemblyReference.cache
+C:\Users\daniil\source\repos\exception_handling\exception_handling\obj\Debug\exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\daniil\source\repos\exception_handling\exception_handling\obj\Debug\exception_handling.exe
+C:\Users\daniil\source\repos\exception_handling\exception_handling\obj\Debug\exception_handling.pdb
